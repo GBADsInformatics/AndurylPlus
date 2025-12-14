@@ -1,4 +1,6 @@
-# Repository Archived
+============================
+Repository Archived
+============================
 
 This repository was archived on 14 December 2025 as part of a transition toward updated implementations that reflect current GBADs Informatics best practices.
 
